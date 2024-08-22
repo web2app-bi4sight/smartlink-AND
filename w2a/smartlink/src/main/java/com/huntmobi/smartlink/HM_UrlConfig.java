@@ -14,7 +14,4 @@ public class HM_UrlConfig {
 
     public static final String slattibuteString = "/slattibute";
 
-    public static final String eventkey = "/eventkey";
-
-
 }

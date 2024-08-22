@@ -61,7 +61,6 @@ public class HM_Smartlink {
     }
 
     public static void start(attributeCallback attributeBlock) {
-        Log.d(TAG, "333333333333333333333333333333333333333");
         callbackNum += 1;
         HM_RequestManager requestManager = HM_RequestManager.getInstance(mApplication);
         HM_DeviceInfoHelper deviceInfoHelper = new HM_DeviceInfoHelper(mApplication);
